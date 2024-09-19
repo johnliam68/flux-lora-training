@@ -1,4 +1,5 @@
-# Flux.1 Dev Lora Training Steps
+# Flux.1 Dev Lora Training with ai-toolkit
+
 ## 1. Prepare data
 - Prepare sample photos of the product/object to be trained, the number is from 2-20 photos with size from 512 or more
 ## 2. Tools used
